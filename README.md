@@ -14,8 +14,9 @@ some reference link here:
 
 ## Setup 
 
-### pip install mlbands
+### TBD
 
+pip install mlbands
 
 ## Data
 
@@ -26,6 +27,10 @@ https://next-gen.materialsproject.org/
 
 ## Market and Business Model
 
-### Case Studies
+### Catalog of Use Case Studies
 
 https://www.mat3ra.com/case-study
+
+### Case Study on Solid State Battery (New Energy, EV Industry)
+
+[Battery Industry](business_model/Battery.md)
